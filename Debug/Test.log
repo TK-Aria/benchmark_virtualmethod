@@ -1,8 +1,0 @@
-﻿  Test.cpp
-c:\users\maaen\documents\test\test.cpp(201): warning C4101: 'test': ローカル変数は 1 度も使われていません。
-c:\users\maaen\documents\test\test.cpp(70): warning C4244: 'return': '__int64' から 'double' への変換です。データが失われる可能性があります。
-  c:\users\maaen\documents\test\test.cpp(220): note: コンパイル対象の関数 テンプレート インスタンス化 'double Debug::ProfileMethod<std::chrono::microseconds>(std::function<void (void)>)' のリファレンスを確認してください
-  stdafx.cpp
-  コードを生成中...
-  Test.vcxproj -> C:\Users\maaen\Documents\test\Debug\Test.exe
-  Test.vcxproj -> C:\Users\maaen\Documents\test\Debug\Test.pdb (Full PDB)
